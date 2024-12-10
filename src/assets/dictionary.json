@@ -1,0 +1,42 @@
+{
+    "en": {
+        "translation": {
+            "world": "Where in the world?",
+            "placeholder": "Search for a country…",
+            "logOut": "Log Out",
+            "titleCard": ["Germany", "United States of America", "Brazil", "Iceland", "Afghanistan", "Åland Islands", "Albania", "Algeria"],
+            "population": "Population: 81,770,900",
+            "region": "Region:",
+            "regionValue": ["Europe", "Americas", "Americas", "Europe", "Asia", "Europe", "Europe", "Africa"],
+            "capital": "Capital:",
+            "capitalValue": ["Berlin", "Washington,D.C.", "Brasilia", "Reykjavik", "Kabul", "Mariehamn", "Tirana", "Algiers"]
+
+        }
+    },
+    "ru": {
+        "translation": {
+            "world": "Где в мире?",
+            "placeholder": "Поиск страны…",
+            "logOut": "Выйти",
+            "titleCard": ["Германия", "Соединенные Штаты Америки", "Бразилия", "Исландия", "Афганистан", "Аландские острова", "Албания", "Алжир"],
+            "population": "Население: 81 770 900",
+            "region": "Область:",
+            "regionValue": ["Европа", "Америка", "Америка", "Европа", "Азия", "Европа", "Европа", "Африка"],
+            "capital": "Столица",
+            "capitalValue": ["Берлин", "Вашингтон", "Бразилиа", "Рейкьявик", "Кабул", "Мариехамн", "Тирана", "Алжир"]
+        }
+    },
+    "uz": {
+        "translation": {
+            "world": "Dunyoning qayerida?",
+            "placeholder": "Mamlakat qidiring…",
+            "logOut": "Chiqish",
+            "titleCard": ["Germaniya", "Amerika Qo'shma Shtatlari", "Braziliya", "Islandiya", "Afg'oniston", "Aland orollari", "Albaniya", "Jazoir"],
+            "population": "Aholisi: 81 770 900",
+            "region": "Hudud:",
+            "regionValue": ["Yevropa", "Amerika", "Amerika", "Yevropa", "Osiyo", "Yevropa", "Yevropa", "Afrika"],
+            "capital": "Poytaxti",
+            "capitalValue": ["Berlin", "Vashington, D.C.", "Braziliya", "Reykyavik", "Kobul", "Mariehamn", "Tirana", "Jazoir"]
+        }
+    }
+}
