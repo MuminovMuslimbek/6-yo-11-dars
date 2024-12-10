@@ -4,7 +4,7 @@ import Home from './pages/Home'
 import Register from './pages/Register.jsx'
 import Login from './pages/Login.jsx'
 import MainLayouts from './Layouts/MainLayouts.jsx'
-import AuthLayout from './layouts/AuthLayout.jsx'
+import AuthLayout from '../layouts/AuthLayout.jsx';
 
 export const ThemeContext = createContext(null)
 export const LanguageContext = createContext(null)
